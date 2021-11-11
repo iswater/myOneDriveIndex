@@ -1,6 +1,6 @@
 {
   "icon": "/icons/128.png",
-  "title": "Spencer's OneDrive Index",
+  "title": "Layker's OneDrive Index",
   "maxItems": 100,
   "googleFont": "Rubik",
   "googleFontWeights": [
@@ -14,8 +14,8 @@
     "/26.极客时间-MySQL实战45讲/音频"
   ],
   "contact": {
-    "email": "mailto:spencer.wushangbo@gmail.com",
-    "telegram": "https://t.me/realSpencerWoo",
-    "github": "https://github.com/spencerwooo/onedrive-vercel-index"
+    "email": "mailto:layke.zh@gmail.com",
+    "telegram": "https://t.me/layker_zh",
+    "github": "https://github.com/iswater/myOneDriveIndex"
   }
 }
