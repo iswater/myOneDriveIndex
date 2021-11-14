@@ -11,7 +11,8 @@
   "protectedRoutes": [
     "/🌞 Private folder/u-need-a-password",
     "/🥟 Some test files/Protected route",
-    "/26.极客时间-MySQL实战45讲/音频"
+    "/MySQL/26.极客时间-MySQL实战45讲/音频",
+    "MySQL"
   ],
   "contact": {
     "email": "mailto:layke.zh@gmail.com",
